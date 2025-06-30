@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Sandton Iconic Billboard",
+    "lat": -26.1075,
+    "lng": 28.0567,
+    "format": "Digital Portrait",
+    "visibilityScore": 88,
+    "trafficCount": 45000,
+    "image": "https://via.placeholder.com/200x100"
+  },
+  {
+    "id": 2,
+    "name": "William Nicol Static",
+    "lat": -26.1023,
+    "lng": 28.0148,
+    "format": "Static Landscape",
+    "visibilityScore": 74,
+    "trafficCount": 32000,
+    "image": "https://via.placeholder.com/200x100"
+  }
+]
